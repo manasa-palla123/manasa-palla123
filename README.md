@@ -9,7 +9,9 @@ Computer Science graduate passionate about building backend applications, REST A
 ## 🚀 Featured Projects
 
 ### 🤖 AI Code Review System
-AI-powered developer tool that analyzes source code, identifies issues, provides review findings, and generates AI-powered code fixes.
+An AI-powered code review platform designed to automate and improve the software code review process. The system analyzes submitted source code using a combination of **static analysis rules and AI-based review**, identifies potential bugs, security issues, code-quality problems, and improvement opportunities, and presents the findings in a structured format.
+
+The platform provides developers with actionable review feedback and AI-generated suggestions, helping them identify issues earlier and improve code quality without relying entirely on manual code reviews.
 
 **Tech:** Python • FastAPI • React • PostgreSQL • Gemini AI
 

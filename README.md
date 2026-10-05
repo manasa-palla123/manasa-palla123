@@ -2,7 +2,7 @@
 
 ### Software Developer | Python | FastAPI | SQL | AI
 
-Computer Science graduate passionate about building backend applications, REST APIs, and AI-powered software solutions.
+Computer Science graduate passionate about building software and Web applications, REST APIs, and AI-powered software solutions.
 
 ---
 
